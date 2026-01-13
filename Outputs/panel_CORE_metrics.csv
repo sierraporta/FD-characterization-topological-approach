@@ -1,0 +1,8 @@
+CORE_metrics
+higuchi_fd
+corr_dim
+katz_fd
+shannon_entropy
+spectral_entropy
+sampen
+app_entropy

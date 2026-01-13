@@ -1,0 +1,5 @@
+event,station,status,savepath,n_rows_Mk,n_cols_Mk,error
+20230423,THUL,ok,Figures/figB_markers_CORE_20230423_THUL.png,109,7,
+20230423,ATHN,ok,Figures/figB_markers_CORE_20230423_ATHN.png,109,7,
+20240510,THUL,ok,Figures/figB_markers_CORE_20240510_THUL.png,109,7,
+20240510,MXCO,ok,Figures/figB_markers_CORE_20240510_MXCO.png,109,7,
